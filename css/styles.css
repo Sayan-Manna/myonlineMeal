@@ -134,6 +134,7 @@ html{
 /* Clients Section */
 #client-section{ 
     position: relative;
+    z-index: -1;
 }
 
 #client-section::before{
